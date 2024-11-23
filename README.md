@@ -42,7 +42,7 @@ This project is part of my **Full-Stack Development** course with IBM. It's a ha
 └── package.json
 
 # Clone the repository:
-git clone https://github.com/Tiffansalzma/e-plantShopping.git
+git clone https://github.com/Tiffansalzma/Event-Planner.git
 
 # Contact
 For any questions or feedback, please reach out to me at sunaryafahri24@gmail.com.
